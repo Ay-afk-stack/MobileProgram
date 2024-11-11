@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OptionMenu</string>
+    <string name="item1">Open</string>
+    <string name="item2">Search</string>
+    <string name="item3">Close</string>
+    <string name="buttonName">Show Context Menu</string>
+    <string name="popButtonName">Show Popup Menu</string>
+</resources>
