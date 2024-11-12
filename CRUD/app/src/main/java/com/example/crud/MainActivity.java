@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
             String student_name=name.getText().toString();
             String student_class=studentClass.getText().toString();
 
-            dbHelper.insertData(roll,student_name,student_name);
+            dbHelper.insertData(roll,student_name,student_class);
                 Toast.makeText(getApplicationContext(), "Data Inserted successfully!", Toast.LENGTH_SHORT).show();
             }
         });
